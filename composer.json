@@ -1,0 +1,11 @@
+{
+    "name": "ffy/rooms",
+    "authors": [
+        {
+            "name": "Tasos Protopapas",
+            "email": "tasos@ffyeah.gr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
