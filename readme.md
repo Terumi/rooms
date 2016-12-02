@@ -16,3 +16,5 @@ add this to providers:
 * ~~controller~~
 * middleware
 * vue.js
+* publish to right place
+* user room-walk trait
