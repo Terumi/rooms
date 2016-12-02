@@ -3,10 +3,6 @@
     <div class="container">
         <h3>Main</h3>
 
-        @if($user->isOnline())
-            user is online!!
-        @endif
-
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, aperiam autem dignissimos esse facere iure minima nobis odit quaerat quis reprehenderit soluta totam. Ducimus earum fuga tempora, tenetur totam velit.</p>
 
         <div class="row">

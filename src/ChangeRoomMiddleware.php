@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace ffy\rooms;
 
 use Closure;
 
@@ -15,6 +15,7 @@ class ChangeRoomMiddleware
      */
     public function handle($request, Closure $next)
     {
+        echo "asdasdasdasdasd";
         return $next($request);
     }
 }
